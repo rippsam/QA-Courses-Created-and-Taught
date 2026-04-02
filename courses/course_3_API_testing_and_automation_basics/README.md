@@ -1,4 +1,4 @@
-# API Testing
+# API Testing and Automation Basics
 
 Course modules and assignments for the API Testing Course.
 
