@@ -1,6 +1,6 @@
 # QA & Testing Course Portfolio
 
-A collection of course modules and assignments covering Quality Assurance, API Testing, Databases, and Automated Testing.
+A collection of course modules and assignments covering Quality Assurance, API Testing, Databases, and Automated Testing that I created and taught.
 
 ---
 
